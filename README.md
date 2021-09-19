@@ -4,10 +4,19 @@ https://gitcoin.co/issue/casper-network/gitcoin-hackathon/29/100026611
 
 
 
-These 5 tasks to learn about the Casper ecosystem have been completed:
+Five tasks have been completed in order to learn more about the Casper ecosystem :
 
-1- Create and deploy a simple, smart contract with cargo casper and cargo test
+1- Create and deploy a simple, smart contract with cargo casper and cargo test :
+
+
+
+
+
+
+
+
 2- Complete one of the existing tutorials for writing smart contracts
 3- Demonstrate key management concepts by modifying the client in the Multi-Sig tutorial to address one of the additional scenarios
 4- Learn to transfer tokens to an account on the Casper Testnet. Check out this documentation.
 5- Learn to Delegate and Undelegate on the Casper Testnet. Check out these instructions.
+
