@@ -8,6 +8,7 @@ A screen recording showing my process of completing all the tasks is available o
 
 
 
+
 1- Create and deploy a simple smart contract using cargo casper and make test.
 
 https://user-images.githubusercontent.com/87818241/133935618-28f0de8e-fb27-4b88-88ff-eb0e776e9e89.mp4
