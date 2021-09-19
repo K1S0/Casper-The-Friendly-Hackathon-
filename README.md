@@ -7,9 +7,11 @@ https://gitcoin.co/issue/casper-network/gitcoin-hackathon/29/100026611
 --> Five tasks have been completed in order to learn more about the Casper ecosystem :
 A screen recording showing my process of completing all the tasks is available on youtube via this link --> https://youtu.be/3pfqtDnjY28. On this page, I will only show you short but clear screen recordings that show the result of the completion of each task.
 
-1- Create and deploy a simple smart contract with cargo casper and make test.
+1- Create and deploy a simple smart contract using cargo casper and make test.
 
-https://user-images.githubusercontent.com/87818241/133935487-b2646b1c-9026-45eb-809c-e3b6c74671e6.mp4
+https://user-images.githubusercontent.com/87818241/133935618-28f0de8e-fb27-4b88-88ff-eb0e776e9e89.mp4
+
+
 
 
 
