@@ -13,8 +13,8 @@ To start with we will set up our development environment, this means to install 
 
 https://user-images.githubusercontent.com/87818241/133949088-bcb397a6-1bcc-4048-8fc3-5f73a532e523.mp4
 
-- Output contract tested : https://github.com/K1S0/Casper-The-Friendly-Hackathon-/blob/main/task%201%20output%20test%20contract.jpg
-- Output contact deployed : https://github.com/K1S0/Casper-The-Friendly-Hackathon-/blob/main/task%201%20output%20contract%20deployed.jpg
+- Output contract tested : https://bit.ly/39nprpo
+- Output contact deployed : https://bit.ly/3AudolU
 <hr width="10%">
 <h4>2- Writing a Casper smart contract</h4>
 
@@ -22,7 +22,7 @@ We will follow the tutorial entitled "A contract Tutorial" which will allow us t
 
 https://user-images.githubusercontent.com/87818241/134003051-77a40f2a-9878-458b-bc61-5b7efe444f28.mp4
 
-- Output contract incremented twice : https://github.com/K1S0/Casper-The-Friendly-Hackathon-/blob/main/Task%202%20-%20Output%20incremented%20contract%20.jpg
+- Output contract incremented twice : https://bit.ly/3hRZF11
 
 <hr width="10%">
 <h4>3- Key management concepts by modifying the client in the Multi-Sig tutorial to address the additional scenario 2</h4>
@@ -87,7 +87,7 @@ const TRANSFER_AMOUNT = process.env.TRANSFER_AMOUNT || 2500000000;
       
 })();
 ```
-- Output script result : https://github.com/K1S0/Casper-The-Friendly-Hackathon-/blob/main/Task%203%20-%20Output%20script%20result.jpg
+- Output script result : https://bit.ly/3zqGu4x
 
 <hr width="10%">
 <h4>4- Transfer tokens to an account on the Casper Testnet</h4>
@@ -99,9 +99,8 @@ https://user-images.githubusercontent.com/87818241/134028018-ce7dc6d8-14f7-4671-
 - Account 1 public_key : ```01117809959ead668a82df3cc0ad1737db1682ab63d180973b0ed7002675241d0c``` <br>
 - Account 2 public_key : ```012158b458c095e347653cf4fa625b63e6efa84eae39d08ef8820e9ff7a95b61e0``` <br>
 - Transaction deploy_hash : ```c3178fa3cc94713c79aae122b742997be26f166d0143a4179f829fb14e53f6fd```<br>
-<br>
-- Output transfert in command-line : https://github.com/K1S0/Casper-The-Friendly-Hackathon-/blob/main/Task%204%20-%20Output%20command-line%20transfert.jpg <br>
-- Output deploy transfert on UI : https://github.com/K1S0/Casper-The-Friendly-Hackathon-/blob/main/Task%204%20-%20Deploy%20transfert%20result%20on%20UI.jpg
+- Output transfert in command-line : https://bit.ly/2XAssR3 <br>
+- Output deploy transfert on UI : https://bit.ly/3tTY2VA
 
 
 <hr width="10%">
@@ -115,9 +114,8 @@ https://user-images.githubusercontent.com/87818241/134042097-c1fc3075-5b90-4487-
 - Undelegation deploy_hash : ```bef1659c2962047dad026bed01ee66d34d415bbb7c7b8e611fc18393d6c835ae``` <br>
 - Account testnet1 public_key : ```01117809959ead668a82df3cc0ad1737db1682ab63d180973b0ed7002675241d0c``` <br>
 - Validator public_key : ```017d96b9a63abcb61c870a4f55187a0a7ac24096bdb5fc585c12a686a4d892009e``` <br>
-<br>
-- Result deploy delegation on UI : https://github.com/K1S0/Casper-The-Friendly-Hackathon-/blob/main/Task%205%20-%20Output%20delegation%20result%20on%20UI.jpg <br>
-- Result deploy undelegation on UI : https://github.com/K1S0/Casper-The-Friendly-Hackathon-/blob/main/Task%205%20-%20Output%20undelegation%20result%20on%20UI.jpg
+- Result deploy delegation on UI : https://bit.ly/3zs1Cr8 <br>
+- Result deploy undelegation on UI : https://bit.ly/2VXyGJV
 
 <br><br>
 This guide is designed to support developers getting started with the development of smart contracts on the Casper blockchain in AssemblyScript or Rust : https://bit.ly/3ArLXth
