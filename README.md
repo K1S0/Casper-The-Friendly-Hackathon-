@@ -92,9 +92,9 @@ We will transfer in command line 10 CSPR from account 1 to account 2 via the Cas
 
 https://user-images.githubusercontent.com/87818241/134028018-ce7dc6d8-14f7-4671-946f-3194ad99f03a.mp4
 
-- Account 1 public_key : 01117809959ead668a82df3cc0ad1737db1682ab63d180973b0ed7002675241d0c <br>
-- Account 2 public_key : 012158b458c095e347653cf4fa625b63e6efa84eae39d08ef8820e9ff7a95b61e0 <br>
-- Transaction deploy_hash : c3178fa3cc94713c79aae122b742997be26f166d0143a4179f829fb14e53f6fd
+- Account 1 public_key : ```01117809959ead668a82df3cc0ad1737db1682ab63d180973b0ed7002675241d0c``` <br>
+- Account 2 public_key : ```012158b458c095e347653cf4fa625b63e6efa84eae39d08ef8820e9ff7a95b61e0``` <br>
+- Transaction deploy_hash : ```c3178fa3cc94713c79aae122b742997be26f166d0143a4179f829fb14e53f6fd```
 
 
 
@@ -106,7 +106,7 @@ We are going to use the cspr.live user interface to delegate and then undelegate
 
 https://user-images.githubusercontent.com/87818241/134042097-c1fc3075-5b90-4487-8593-ecaf40961982.mp4
 
-- Delegation deploy_hash : 020e612b2f822ab3a65c6100a126124a7abae66d3313cfa832b21360805fc899 <br>
-- Undelegation deploy_hash : bef1659c2962047dad026bed01ee66d34d415bbb7c7b8e611fc18393d6c835ae <br>
-- Account testnet1 public_key : 01117809959ead668a82df3cc0ad1737db1682ab63d180973b0ed7002675241d0c <br>
-- Validator public_key : 017d96b9a63abcb61c870a4f55187a0a7ac24096bdb5fc585c12a686a4d892009e <br>
+- Delegation deploy_hash : ```020e612b2f822ab3a65c6100a126124a7abae66d3313cfa832b21360805fc899``` <br>
+- Undelegation deploy_hash : ```bef1659c2962047dad026bed01ee66d34d415bbb7c7b8e611fc18393d6c835ae``` <br>
+- Account testnet1 public_key : ```01117809959ead668a82df3cc0ad1737db1682ab63d180973b0ed7002675241d0c``` <br>
+- Validator public_key : ```017d96b9a63abcb61c870a4f55187a0a7ac24096bdb5fc585c12a686a4d892009e``` <br>
