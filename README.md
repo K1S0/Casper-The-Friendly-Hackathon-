@@ -29,7 +29,7 @@ By following the "Multi-Signature Tutorial" we will learn to use Casper’s perm
 https://user-images.githubusercontent.com/87818241/134017388-b131b6b3-2883-4537-9418-fa5e68210427.mp4
 
 
-4- Learn to transfer tokens to an account on the Casper Testnet. Check out this documentation.
+4- Transfer tokens to an account on the Casper Testnet. Check out this documentation.
 
 We will transfer 10 CSPR from account 1 to account 2 via the Casper blockchain Testnet. Both accounts have been previously provisioned with CSPR thanks to the faucet tool of the cspr.live website. Account 1 (01117.....41d0c), Account 2 (01215.....b61e0). Deploy c3178fa3cc94713c79aae122b742997be26f166d0143a4179f829fb14e53f6fd
 
