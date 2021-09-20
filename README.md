@@ -45,4 +45,5 @@ We are going to use the cspr.live user interface to delegate and then undelegate
 
 https://user-images.githubusercontent.com/87818241/134042097-c1fc3075-5b90-4487-8593-ecaf40961982.mp4
 
-<i>Delegation</i> --> Deploy : 020e612b2f822ab3a65c6100a126124a7abae66d3313cfa832b21360805fc899 <br> test
+- Delegation --> Deploy : 020e612b2f822ab3a65c6100a126124a7abae66d3313cfa832b21360805fc899 <br>
+- Undelegation --> Deploy : bef1659c2962047dad026bed01ee66d34d415bbb7c7b8e611fc18393d6c835ae
