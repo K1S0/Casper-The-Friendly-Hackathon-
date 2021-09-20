@@ -35,7 +35,7 @@ We will transfer 10 CSPR from account 1 to account 2 via the Casper blockchain T
 
 
 
-5- Learn to Delegate and Undelegate on the Casper Testnet. Check out these instructions.
+5- Learn to Delegate and Undelegate on the Casper Testnet
 
 
 
