@@ -13,7 +13,12 @@ https://user-images.githubusercontent.com/87818241/133949088-bcb397a6-1bcc-4048-
 
 
 
-2- Complete one of the existing tutorials for writing smart contracts
+2- Writing a Casper smart contracts
+We will follow the tutorial entitled "A contract Tutorial" which will allow us to familiarize ourselves with the process of deploying and using a contract on Testnet, a local test network. And then we will write a smart contract called the counter contract.
+
+
+
+
 3- Demonstrate key management concepts by modifying the client in the Multi-Sig tutorial to address one of the additional scenarios
 4- Learn to transfer tokens to an account on the Casper Testnet. Check out this documentation.
 5- Learn to Delegate and Undelegate on the Casper Testnet. Check out these instructions.
