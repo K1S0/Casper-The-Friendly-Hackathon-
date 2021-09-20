@@ -90,7 +90,7 @@ const TRANSFER_AMOUNT = process.env.TRANSFER_AMOUNT || 2500000000;
 <hr width="10%">
 <h4>4- Transfer tokens to an account on the Casper Testnet</h4>
 
-We will transfer in command line 10 CSPR from account 1 to account 2 via the Casper blockchain Testnet. Both accounts have been previously provisioned with CSPR thanks to the faucet tool of the cspr.live website.  
+We will transfer in command-line 10 CSPR from account 1 to account 2 via the Casper blockchain Testnet. Both accounts have been previously provisioned with CSPR thanks to the faucet tool of the cspr.live website.  
 
 https://user-images.githubusercontent.com/87818241/134028018-ce7dc6d8-14f7-4671-946f-3194ad99f03a.mp4
 
