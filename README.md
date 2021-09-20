@@ -117,5 +117,5 @@ https://user-images.githubusercontent.com/87818241/134042097-c1fc3075-5b90-4487-
 - Result deploy delegation on UI : https://bit.ly/3zs1Cr8 <br>
 - Result deploy undelegation on UI : https://bit.ly/2VXyGJV
 
-<br><br>
+<br>
 This guide is designed to support developers getting started with the development of smart contracts on the Casper blockchain in AssemblyScript or Rust : https://bit.ly/3ArLXth
