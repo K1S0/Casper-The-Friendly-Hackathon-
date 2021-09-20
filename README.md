@@ -13,7 +13,7 @@ https://user-images.githubusercontent.com/87818241/133949088-bcb397a6-1bcc-4048-
 
 
 
-2- Writing a Casper smart contracts
+2- Writing a Casper smart contract
 
 We will follow the tutorial entitled "A contract Tutorial" which will allow us to familiarize ourselves with the process of deploying and using a contract on Testnet, a local test network. And then we will write a smart contract called the counter contract.
 
