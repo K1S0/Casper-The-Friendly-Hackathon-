@@ -41,7 +41,7 @@ https://user-images.githubusercontent.com/87818241/134028018-ce7dc6d8-14f7-4671-
 
 5- Delegation and Undelegation on the Casper Testnet
 
-We are going to use the cspr.live user interface to delegate and undelegate 10 CSPR to a Casper Testnet validator. The account (011178.....41d0c) will be our delegator/undelegator and the chosen validator will be 017d9.....2009e.
+We are going to use the cspr.live user interface to delegate and undelegate 10 CSPR to a Casper Testnet validator. The account (011178.....41d0c) will be our delegator/undelegator and the chosen validator will be this one 017d96b9a63abcb61c870a4f55187a0a7ac24096bdb5fc585c12a686a4d892009e .
 
 
 
