@@ -100,7 +100,7 @@ https://user-images.githubusercontent.com/87818241/134028018-ce7dc6d8-14f7-4671-
 - Account 2 public_key : ```012158b458c095e347653cf4fa625b63e6efa84eae39d08ef8820e9ff7a95b61e0``` <br>
 - Transaction deploy_hash : ```c3178fa3cc94713c79aae122b742997be26f166d0143a4179f829fb14e53f6fd```<br>
 <br>
-- Output transfert in command-line : https://github.com/K1S0/Casper-The-Friendly-Hackathon-/blob/main/Task%204%20-%20Output%20command-line%20transfert.jpg
+- Output transfert in command-line : https://github.com/K1S0/Casper-The-Friendly-Hackathon-/blob/main/Task%204%20-%20Output%20command-line%20transfert.jpg <br>
 - Output deploy transfert on UI : https://github.com/K1S0/Casper-The-Friendly-Hackathon-/blob/main/Task%204%20-%20Deploy%20transfert%20result%20on%20UI.jpg
 
 
@@ -118,3 +118,6 @@ https://user-images.githubusercontent.com/87818241/134042097-c1fc3075-5b90-4487-
 <br>
 - Result deploy delegation on UI : https://github.com/K1S0/Casper-The-Friendly-Hackathon-/blob/main/Task%205%20-%20Output%20delegation%20result%20on%20UI.jpg <br>
 - Result deploy undelegation on UI : https://github.com/K1S0/Casper-The-Friendly-Hackathon-/blob/main/Task%205%20-%20Output%20undelegation%20result%20on%20UI.jpg
+
+<br><br>
+This guide is designed to support developers getting started with the development of smart contracts on the Casper blockchain in AssemblyScript or Rust : https://bit.ly/3ArLXth
