@@ -44,7 +44,7 @@ We are going to use the cspr.live user interface to delegate and then undelegate
 
 https://user-images.githubusercontent.com/87818241/134042097-c1fc3075-5b90-4487-8593-ecaf40961982.mp4
 
-- Delegation /deploy_hash : 020e612b2f822ab3a65c6100a126124a7abae66d3313cfa832b21360805fc899 <br>
-- Undelegation /deploy_hash : bef1659c2962047dad026bed01ee66d34d415bbb7c7b8e611fc18393d6c835ae <br>
-- Account testnet1 /public_key : 01117809959ead668a82df3cc0ad1737db1682ab63d180973b0ed7002675241d0c <br>
-- Validator /public_key : 017d96b9a63abcb61c870a4f55187a0a7ac24096bdb5fc585c12a686a4d892009e <br>
+- Delegation deploy_hash : 020e612b2f822ab3a65c6100a126124a7abae66d3313cfa832b21360805fc899 <br>
+- Undelegation deploy_hash : bef1659c2962047dad026bed01ee66d34d415bbb7c7b8e611fc18393d6c835ae <br>
+- Account testnet1 public_key : 01117809959ead668a82df3cc0ad1737db1682ab63d180973b0ed7002675241d0c <br>
+- Validator public_key : 017d96b9a63abcb61c870a4f55187a0a7ac24096bdb5fc585c12a686a4d892009e <br>
