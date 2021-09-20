@@ -31,7 +31,7 @@ https://user-images.githubusercontent.com/87818241/134017388-b131b6b3-2883-4537-
 
 4- Transfer tokens to an account on the Casper Testnet.
 
-We will transfer in commande line 10 CSPR from account 1 to account 2 in via the Casper blockchain Testnet. Both accounts have been previously provisioned with CSPR thanks to the faucet tool of the cspr.live website. Account 1 (01117.....41d0c), Account 2 (01215.....b61e0). Deploy c3178fa3cc94713c79aae122b742997be26f166d0143a4179f829fb14e53f6fd
+We will transfer in command line 10 CSPR from account 1 to account 2 in via the Casper blockchain Testnet. Both accounts have been previously provisioned with CSPR thanks to the faucet tool of the cspr.live website. Account 1 (01117.....41d0c), Account 2 (01215.....b61e0). Deploy c3178fa3cc94713c79aae122b742997be26f166d0143a4179f829fb14e53f6fd
 
 
 
