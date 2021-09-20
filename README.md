@@ -38,7 +38,8 @@ https://user-images.githubusercontent.com/87818241/134028018-ce7dc6d8-14f7-4671-
 
 
 
-5- Learn to Delegate and Undelegate on the Casper Testnet
+
+5- Delegation and Undelegation on the Casper Testnet
 
 
 
