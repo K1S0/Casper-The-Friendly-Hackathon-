@@ -24,7 +24,7 @@ https://user-images.githubusercontent.com/87818241/134003051-77a40f2a-9878-458b-
 
 3- Demonstrate key management concepts by modifying the client in the Multi-Sig tutorial to address one of the additional scenarios
 
-By following the "Multi-Signature Tutorial" we will learn to use Casper’s permissions model to sign transactions with multiple keys. We will use a smart contract called "keys-manager" and a sample client that invokes the multi-signature feature on a local Casper network. At the end we will choose additional the scenario number two : deploying with two special keys.
+By following the "Multi-Signature Tutorial" we will learn to use Casper’s permissions model to sign transactions with multiple keys. We will use a smart contract called "keys-manager" and a sample client that invokes the multi-signature feature on a local Casper network. At the end, we will run the additional scenario number two : deploying with two special keys.
 
 4- Learn to transfer tokens to an account on the Casper Testnet. Check out this documentation.
 5- Learn to Delegate and Undelegate on the Casper Testnet. Check out these instructions.
