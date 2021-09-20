@@ -35,7 +35,7 @@ We will transfer in command line 10 CSPR from account 1 to account 2 via the Cas
 https://user-images.githubusercontent.com/87818241/134028018-ce7dc6d8-14f7-4671-946f-3194ad99f03a.mp4
 
 - Account 1 public_key : 01117809959ead668a82df3cc0ad1737db1682ab63d180973b0ed7002675241d0c <br>
-- Account 2 public_key : MCowBQYDK2VwAyEAIVi0WMCV40dlPPT6Yltj5u+oTq450I74gg6f96lbYeA= <br>
+- Account 2 public_key :  012158b458c095e347653cf4fa625b63e6efa84eae39d08ef8820e9ff7a95b61e0 <br>
 - Transaction deploy_hash : c3178fa3cc94713c79aae122b742997be26f166d0143a4179f829fb14e53f6fd
 
 
