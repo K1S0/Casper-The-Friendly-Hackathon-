@@ -9,9 +9,7 @@ A screen recording showing my process of completing all the tasks is available o
 
 1- Create and deploy a simple Casper smart contract using cargo casper, make test and a local network.
 
-https://user-images.githubusercontent.com/87818241/133948519-43755a0e-a89f-4d68-b42f-562a4a51bfc7.mp4
-
-
+https://user-images.githubusercontent.com/87818241/133949088-bcb397a6-1bcc-4048-8fc3-5f73a532e523.mp4
 
 
 
